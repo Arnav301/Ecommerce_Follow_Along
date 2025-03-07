@@ -82,3 +82,11 @@ This form will take multiple product images as input.
 
 - Learn how to create a new page to display each product.
 - Add quantity and add-to-cart buttons.
+
+
+## Milestone 17: Edit the User Schema to Store Cart Products
+
+- In this milestonw we will be Editing the user schema to store cart products.
+- **Write an Endpoint to Receive Product Details**: Learn how to create a new endpoint that accepts
+product details (e.g., product ID, quantity) from the frontend.
+-**Store Product Details in Database**: Learn how to implement the logic to add the received product details to the user's cart in the database. Ensure that the cart is updated correctly and that the product details are stored securely.
