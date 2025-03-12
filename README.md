@@ -100,6 +100,16 @@ product details (e.g., product ID, quantity) from the frontend.
 
 ## Milestone 19: Create Cart Page and Manage Product Quantity
 
-- Create a cart page that displays the products inside the cart using the endpoint built in Milestone 18.
-- For each product, add an option to increase and decrease the quantity using + and - buttons.
-- Write an endpoint to increase and decrease the quantity of products in the cart.
+- Create cart frontend page and display the products
+- For each product add an option to increase and decrease quantity using + and - buttons.
+- Create an Backend endpoint for increase and decrease quantity
+
+
+## Milestone 20: Create User Profile Page
+
+
+- Create an Backend endpoint that will sent user data
+- Create frontend profile page
+- Display profile photo, name and email in one section
+- In another section display address and add an button called "Add address"
+- If there are no address display "No address found"
