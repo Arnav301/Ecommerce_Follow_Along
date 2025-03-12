@@ -97,3 +97,9 @@ product details (e.g., product ID, quantity) from the frontend.
 - Create an endpoint to receive requests from the cart page.
 - Create a backend endpoint to fetch all the products inside the cart using the user's email.
 
+
+## Milestone 19: Create Cart Page and Manage Product Quantity
+
+- Create a cart page that displays the products inside the cart using the endpoint built in Milestone 18.
+- For each product, add an option to increase and decrease the quantity using + and - buttons.
+- Write an endpoint to increase and decrease the quantity of products in the cart.
