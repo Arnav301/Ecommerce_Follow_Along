@@ -90,3 +90,10 @@ This form will take multiple product images as input.
 - **Write an Endpoint to Receive Product Details**: Learn how to create a new endpoint that accepts
 product details (e.g., product ID, quantity) from the frontend.
 -**Store Product Details in Database**: Learn how to implement the logic to add the received product details to the user's cart in the database. Ensure that the cart is updated correctly and that the product details are stored securely.
+
+
+## Milestone 18: Create Backend Endpoints for Cart Page
+
+- Create an endpoint to receive requests from the cart page.
+- Create a backend endpoint to fetch all the products inside the cart using the user's email.
+
