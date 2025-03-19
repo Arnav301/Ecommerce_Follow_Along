@@ -119,3 +119,8 @@ product details (e.g., product ID, quantity) from the frontend.
 - Create address form frontend page
 - Create an state that will store input address
 - When we click on add address in profile it should navigate to this form page.
+
+## Milestone 22: Save Address Inside User Profile
+
+- You need to create an endpoint that will receive the address from address form in frontend
+- Add the address to the address array inside user collection.
