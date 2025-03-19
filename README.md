@@ -113,3 +113,9 @@ product details (e.g., product ID, quantity) from the frontend.
 - Display profile photo, name and email in one section
 - In another section display address and add an button called "Add address"
 - If there are no address display "No address found"
+
+## Milestone 21: Create Address Form
+
+- Create address form frontend page
+- Create an state that will store input address
+- When we click on add address in profile it should navigate to this form page.
