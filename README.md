@@ -124,3 +124,27 @@ product details (e.g., product ID, quantity) from the frontend.
 
 - You need to create an endpoint that will receive the address from address form in frontend
 - Add the address to the address array inside user collection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
