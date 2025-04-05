@@ -131,3 +131,13 @@ product details (e.g., product ID, quantity) from the frontend.
 - Create an placeorder button inside cart page and navigate to select address page when clicked.
 - Create and select address page that will display all the available address and have an option to select one address.
 - Write an backend endpoint that will send all the addresses of the user.
+
+
+## Milestone 24: Place Order & Select Address Flow
+
+Add a Place Order button inside the cart.
+
+- Create a Select Address page to display all saved addresses.
+- Allow users to select one delivery address.
+- Write a Mongoose schema for storing order details.
+- Build a backend API endpoint to fetch user addresses.
