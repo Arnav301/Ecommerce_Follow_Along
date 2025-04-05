@@ -135,9 +135,16 @@ product details (e.g., product ID, quantity) from the frontend.
 
 ## Milestone 24: Place Order & Select Address Flow
 
-Add a Place Order button inside the cart.
-
+- Add a Place Order button inside the cart.
 - Create a Select Address page to display all saved addresses.
 - Allow users to select one delivery address.
 - Write a Mongoose schema for storing order details.
 - Build a backend API endpoint to fetch user addresses.
+
+
+## Milestone 25 – Backend Endpoint for Placing Orders
+
+- You need to create an endpoint that will receive the products, user, address details
+- You will get the mail of the user using that you need to retrive the _id of the user
+- For each product the order will be different with same address
+- Using order schema you created earlier you will store order details in mongodb order collection
