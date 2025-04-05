@@ -148,3 +148,11 @@ product details (e.g., product ID, quantity) from the frontend.
 - You will get the mail of the user using that you need to retrive the _id of the user
 - For each product the order will be different with same address
 - Using order schema you created earlier you will store order details in mongodb order collection
+
+
+## Milestone 26 – Get All Orders of a User
+
+- You need to create an endpoint that will receive the user mail
+- You will get the mail of the user using that you need to retrive the _id of the user
+- Using that _id you need to get all the orders of that user
+- Send all the users orders in the response.
