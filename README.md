@@ -156,3 +156,11 @@ product details (e.g., product ID, quantity) from the frontend.
 - You will get the mail of the user using that you need to retrive the _id of the user
 - Using that _id you need to get all the orders of that user
 - Send all the users orders in the response.
+
+## Milestone 27 – Build & Display User Orders on the Frontend
+
+- You need to create an my-orders page
+- You will send an get request to my-orders endpoint that we created in previous milestone.
+- We will send user mail in to endpoint to get all the user orders
+- Display all the user orders
+- We will add my-orders page in navbar for better navigation.
